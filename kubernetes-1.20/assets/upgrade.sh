@@ -39,3 +39,4 @@ sudo apt-get install -y kubelet=1.20.4-00 kubectl=1.20.4-00 > /dev/null 2>&1
 sleep 15
 
 echo "-*-*-*-  Cluster v1.20.4 Ready -*-*-*"
+
